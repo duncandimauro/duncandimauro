@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duncandimauro
 - 👀 I’m interested in software, physical simulation, engineering, game development, and all things computer science!
-- 🌱 I’m currently studying CS in a Masters of Science program
+- 🌱 I’m currently doing a Masters of Science in Computer Science
 - 💞️ I’m looking to collaborate on hackathons or game jams!
 - 📫 Contact information at: https://www.duncandimauro.com
 
